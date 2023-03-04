@@ -24,7 +24,7 @@ This is a Python program that allows you to filter Excel data using a simple GUI
 
 ## Build 
 
-You can use the file `make.py` to build the program into an actua; desktop app with a GUI capable of running in any Windows pc.
+You can use the file `make.py` to build the program into an actual desktop app with a GUI capable of running in any Windows pc.
 
 ## Dependencies
 
