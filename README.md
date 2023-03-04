@@ -32,9 +32,7 @@ This is a Python program that allows you to filter Excel data using a simple GUI
 ## Installation
 
 1. Clone or download the repository from GitHub
-2. Install the dependencies using pip:
-
-`pip install pandas unicodedata`
+2. Install the dependencies using pip: `pip install pandas unicodedata`
 
 3. Run the program by executing the filter_excel.py file
 
