@@ -2,7 +2,7 @@ from cx_Freeze import setup, Executable
 
 # Specify the program name and source file
 program_name = "My Excel Filter"
-source_file = "pd.py"
+source_file = "excel_filter.py"
 
 # Create the executable
 executable = Executable(script=source_file, targetName=program_name)
