@@ -22,6 +22,10 @@ This is a Python program that allows you to filter Excel data using a simple GUI
 6. Click the "Filter" button
 7. A new Excel file will be generated with the filtered data
 
+## Build 
+
+You can use the file `make.py` to build the program into an actua; desktop app with a GUI capable of running in any Windows pc.
+
 ## Dependencies
 
 • Python 3.x
